@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.exe
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.deps.json
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.runtimeconfig.json
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.dll
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\ref\icpc.dll
+C:\Users\lenovo\Desktop\icpc\bin\Debug\net5.0\icpc.pdb
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.dll
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\ref\icpc.dll
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.pdb
+C:\Users\lenovo\Desktop\icpc\obj\Debug\net5.0\icpc.genruntimeconfig.cache
